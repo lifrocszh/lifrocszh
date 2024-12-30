@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Ziheng!
+### 👋 Hi there, I'm Ziheng!
+---
 
 ## 🎓 About Me
 - Currently pursuing my degree in Business Analytics in NUS (National University of Singapore)
