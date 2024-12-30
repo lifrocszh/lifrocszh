@@ -14,7 +14,7 @@ SWE Frameworks: React, Flutter
 Python libraries: Pandas, ScikitLearn, MatplotLib, Seaborn, Pytorch, Tensorflow, PySpark
 ```
 
-##⚡ Fun fact
+## ⚡ Fun fact
 I like sushi
 
 ## [Main Projects](https://github.com/lifrocszh/Projects)
