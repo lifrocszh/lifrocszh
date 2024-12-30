@@ -34,6 +34,3 @@ Python libraries: Pandas, ScikitLearn, MatplotLib, Seaborn, Pytorch, Tensorflow,
 ## 📫 Contacts
 - LinkedIn: [your-linkedin]
 - Email: wangziheng516@gmail.com
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula)
