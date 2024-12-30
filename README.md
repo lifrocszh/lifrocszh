@@ -32,5 +32,5 @@ Python libraries: Pandas, ScikitLearn, MatplotLib, Seaborn, Pytorch, Tensorflow,
 ## [Main Projects](https://github.com/lifrocszh/Projects)
 
 ## 📫 Contacts
-- LinkedIn: [your-linkedin]
+- [LinkedIn](https://www.linkedin.com/in/ziheng-wang-39ab35263/)
 - Email: wangziheng516@gmail.com
