@@ -20,5 +20,5 @@ I like sushi
 ## [Main Projects](https://github.com/lifrocszh/Projects)
 
 ## 📫 Contacts
-- [LinkedIn](https://www.linkedin.com/in/ziheng-wang-39ab35263/)
+- [LinkedIn](https://www.linkedin.com/in/wangzh516/)
 - Email: wangziheng516@gmail.com
