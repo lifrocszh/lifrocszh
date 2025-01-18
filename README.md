@@ -3,7 +3,7 @@
 
 ## 🎓 About Me
 - Currently pursuing my degree in Business Analytics in NUS (National University of Singapore)
-- Passionate about machine learning, data science and software engineering
+- Passionate in anything machine learning, data science and software engineering
 - Learning and building projects in deep learning using Pytorch
 - I build machine learning projects and play tennis during my free time
 
