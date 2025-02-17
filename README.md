@@ -10,7 +10,7 @@
 ## 💻 Tech Stack
 ```text
 Languages: Python, Java, R, JavaScript, Dart
-SWE Frameworks: React, Flutter
+SWE Frameworks: React, Vue.js, Flutter
 Python libraries: Pandas, ScikitLearn, MatplotLib, Seaborn, Pytorch, Tensorflow, PySpark
 ```
 
