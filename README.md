@@ -11,7 +11,9 @@
 ```text
 Languages: Python, Java, R, JavaScript, Dart
 SWE Frameworks: React, Vue.js, Flutter
-Python libraries: Pandas, ScikitLearn, MatplotLib, Seaborn, Pytorch, Tensorflow, PySpark
+Backend Frameworks: Firebase, Flask, Django
+Deep Learning Frameworks: PyTorch, Tensorflow
+LLM Frameworks: LangChain, LangGraph, Ollama, HuggingFace
 ```
 
 ## ⚡ Fun fact
