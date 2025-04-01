@@ -21,7 +21,7 @@ I like sushi
 
 ## 💼 [Main Projects](https://github.com/lifrocszh/Projects)
 - [getRichQuick](https://github.com/lifrocszh/getRichQuick), stock prediction in PyTorch and deployed in web app by React
-- [Projects](https://github.com/lifrocszh/Projects), a collection of jupyter nnotebooks on my various data science and machine learning projects
+- [Projects](https://github.com/lifrocszh/Projects), a collection of jupyter notebooks on my various data science and machine learning projects
 - [Orbital](https://github.com/reidenong/2024-Orbital-6532), mobile chat and facilities booking app, coded in Flutter and Firebase. 
 
 
