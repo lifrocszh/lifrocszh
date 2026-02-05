@@ -20,6 +20,7 @@ LLM Frameworks: LangChain, LangGraph, Ollama, HuggingFace
 I like sushi
 
 ## 💼 [Main Projects](https://github.com/lifrocszh/Projects)
+- [AI Daily Assistant](https://github.com/lifrocszh/AI_Daily_Assistant), just a general AI agent to help me with various tasks that I deem useful, uses a telegram as frontend. More info in the repo itself. 
 - [getRichQuick](https://github.com/lifrocszh/getRichQuick), stock prediction in PyTorch and deployed in web app by React
 - [Projects](https://github.com/lifrocszh/Projects), a collection of jupyter notebooks on my various data science and machine learning projects
 - [Orbital](https://github.com/reidenong/2024-Orbital-6532), mobile chat and facilities booking app, coded in Flutter and Firebase. 
