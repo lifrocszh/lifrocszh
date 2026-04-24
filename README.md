@@ -18,7 +18,8 @@ LLM Frameworks: LangChain, LangGraph, FastMCP
 I like sushi
 
 ## 💼 [Main Projects](https://github.com/lifrocszh/Projects)
-- [AI Daily Assistant](https://github.com/lifrocszh/AI_Daily_Assistant), AI agent that I use on a daily basis, with telegram as a frontend. Heavily inspired by OpenClaw. 
+- [AI Daily Assistant](https://github.com/lifrocszh/AI_Daily_Assistant), AI agent that I use on a daily basis, with telegram as a frontend. Heavily inspired by OpenClaw.
+- [RLM-mcp](https://github.com/lifrocszh/RLM-mcp), MCP server for the implementation of Recursive Language Models, deisgn to solve the context problem of large inputs and bypassing limitations of RAG. 
 - [getRichQuick](https://github.com/lifrocszh/getRichQuick), stock prediction in PyTorch and deployed in web app by React
 - [Projects](https://github.com/lifrocszh/Projects), a collection of jupyter notebooks on my various data science and machine learning projects
 - [Orbital](https://github.com/reidenong/2024-Orbital-6532), mobile chat and facilities booking app, coded in Flutter and Firebase. 
