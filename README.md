@@ -2,29 +2,35 @@
 ---
 
 ## 🎓 About Me
-- Currently pursuing my degree in Business Analytics in NUS (National University of Singapore)
-- Passionate in anything machine learning, Artificial Intelligence and software engineering
-- Learning and building projects in deep learning using Pytorch
-- I build machine learning projects and play tennis during my free time
+- Currently pursuing a degree in Business Analytics at NUS (National University of Singapore)
+- Interested in machine learning, artificial intelligence, and software engineering
+- Building deep learning projects with PyTorch
+- I like working on ML projects and playing tennis in my free time
 
 ## 💻 Tech Stack
 ```text
 Languages: Python, Java, JavaScript
-Deep Learning Frameworks: PyTorch, Tensorflow
+Deep Learning Frameworks: PyTorch, TensorFlow
 LLM Frameworks: LangChain, LangGraph, FastMCP
 ```
 
 ## ⚡ Fun fact
 I like sushi
 
-## 💼 [Main Projects](https://github.com/lifrocszh/Projects)
-- [AI Daily Assistant](https://github.com/lifrocszh/AI_Daily_Assistant), AI agent that I use on a daily basis, with telegram as a frontend. Heavily inspired by OpenClaw.
-- [RLM-mcp](https://github.com/lifrocszh/RLM-mcp), MCP server for the implementation of Recursive Language Models, deisgn to solve the context problem of large inputs and bypassing limitations of RAG. 
-- [getRichQuick](https://github.com/lifrocszh/getRichQuick), stock prediction in PyTorch and deployed in web app by React
-- [Projects](https://github.com/lifrocszh/Projects), a collection of jupyter notebooks on my various data science and machine learning projects
-- [Orbital](https://github.com/reidenong/2024-Orbital-6532), mobile chat and facilities booking app, coded in Flutter and Firebase. 
-
+## 💼 Main Projects
+- [AI Daily Assistant](https://github.com/lifrocszh/AI_Daily_Assistant), an AI agent I use daily with Telegram as the frontend. Heavily inspired by OpenClaw.
+- [RLM-mcp](https://github.com/lifrocszh/RLM-mcp), an MCP server for Recursive Language Models, designed to handle large inputs and work around common RAG limitations.
+- [video-rag](https://github.com/lifrocszh/video-rag), a local-first multimodal Video RAG scaffold that indexes speech and visual frames, then uses hybrid retrieval with timestamped context blocks.
+- [getRichQuick](https://github.com/lifrocszh/getRichQuick), a stock prediction project built with PyTorch and deployed as a React web app.
+- [Projects](https://github.com/lifrocszh/Projects), a collection of Jupyter notebooks covering my data science and machine learning work.
+- [Orbital](https://github.com/reidenong/2024-Orbital-6532), a mobile chat and facilities booking app built with Flutter and Firebase.
 
 ## 📫 Contacts
 - [LinkedIn](https://www.linkedin.com/in/wangzh516/)
 - Email: wangziheng516@gmail.com
+```
+
+If you want, I can also make it:
+1. more polished and professional
+2. more casual and personal
+3. more technical and recruiter-friendly
