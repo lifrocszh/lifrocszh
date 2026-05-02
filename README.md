@@ -29,8 +29,3 @@ I like sushi
 - [LinkedIn](https://www.linkedin.com/in/wangzh516/)
 - Email: wangziheng516@gmail.com
 ```
-
-If you want, I can also make it:
-1. more polished and professional
-2. more casual and personal
-3. more technical and recruiter-friendly
