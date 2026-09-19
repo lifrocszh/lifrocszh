@@ -2,14 +2,14 @@
 ---
 
 ## 🎓 About Me
-- Currently pursuing a degree in Business Analytics at NUS (National University of Singapore)
-- Interested in machine learning, artificial intelligence, and software engineering
-- Building deep learning projects with PyTorch
-- I like working on ML projects and playing tennis in my free time
+- Business Analytics student at NUS building practical tools across data, AI, and software engineering
+- Interested in local-first AI, observability, developer tools, and high-volume data processing
+- Currently working with Python, Rust, PyTorch, and LLM/MCP tooling
+- I enjoy turning complex data and system behavior into clear, useful outputs
 
 ## 💻 Tech Stack
 ```text
-Languages: Python, Java, JavaScript
+Languages: Python, Rust, Java, JavaScript
 Deep Learning Frameworks: PyTorch, TensorFlow
 LLM Frameworks: LangChain, LangGraph, FastMCP
 ```
@@ -18,6 +18,7 @@ LLM Frameworks: LangChain, LangGraph, FastMCP
 I like sushi
 
 ## 💼 Main Projects
+- [RunLens](https://github.com/lifrocszh/runlens), a Rust/Linux command wrapper that reports process, resource, filesystem, and network activity.
 - [AI Daily Assistant](https://github.com/lifrocszh/AI_Daily_Assistant), an AI agent I use daily with Telegram as the frontend. Heavily inspired by OpenClaw.
 - [RLM-mcp](https://github.com/lifrocszh/RLM-mcp), an MCP server for Recursive Language Models, designed to handle large inputs and work around common RAG limitations.
 - [video-rag](https://github.com/lifrocszh/video-rag), a local-first multimodal Video RAG scaffold that indexes speech and visual frames, then uses hybrid retrieval with timestamped context blocks.
