@@ -18,6 +18,7 @@ LLM Frameworks: LangChain, LangGraph, FastMCP
 I like sushi
 
 ## 💼 Main Projects
+- [Logalyze](https://github.com/lifrocszh/logalyze), a Rust-native log summarizer with a Python API for bounded-memory Apache/nginx access-log analysis.
 - [RunLens](https://github.com/lifrocszh/runlens), a Rust/Linux command wrapper that reports process, resource, filesystem, and network activity.
 - [AI Daily Assistant](https://github.com/lifrocszh/AI_Daily_Assistant), an AI agent I use daily with Telegram as the frontend. Heavily inspired by OpenClaw.
 - [RLM-mcp](https://github.com/lifrocszh/RLM-mcp), an MCP server for Recursive Language Models, designed to handle large inputs and work around common RAG limitations.
