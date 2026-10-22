@@ -1,31 +1,57 @@
-### 👋 Hi there, I'm Ziheng!
----
+# Hi, I'm Ziheng
 
-## 🎓 About Me
-- Business Analytics student at NUS building practical tools across data, AI, and software engineering
-- Interested in local-first AI, observability, developer tools, and high-volume data processing
-- Currently working with Python, Rust, PyTorch, and LLM/MCP tooling
-- I enjoy turning complex data and system behavior into clear, useful outputs
+I'm a Business Analytics student at the National University of Singapore building systems for search, observability, and AI developer tooling.
 
-## 💻 Tech Stack
-```text
-Languages: Python, Rust, Java, JavaScript
-Deep Learning Frameworks: PyTorch, TensorFlow
-LLM Frameworks: LangChain, LangGraph, FastMCP
-```
+My focus is systems engineering: distributed crawling, bounded-memory data processing, and tools that make software behavior easier to inspect.
 
-## ⚡ Fun fact
-I like sushi
+## Selected projects
 
-## 💼 Main Projects
-- [Logalyze](https://github.com/lifrocszh/logalyze), a Rust-native log summarizer with a Python API for bounded-memory Apache/nginx access-log analysis.
-- [RunLens](https://github.com/lifrocszh/runlens), a Rust/Linux command wrapper that reports process, resource, filesystem, and network activity.
-- [AI Daily Assistant](https://github.com/lifrocszh/AI_Daily_Assistant), an AI agent I use daily with Telegram as the frontend. Heavily inspired by OpenClaw.
-- [RLM-mcp](https://github.com/lifrocszh/RLM-mcp), an MCP server for Recursive Language Models, designed to handle large inputs and work around common RAG limitations.
-- [video-rag](https://github.com/lifrocszh/video-rag), a local-first multimodal Video RAG scaffold that indexes speech and visual frames, then uses hybrid retrieval with timestamped context blocks.
-- [Projects](https://github.com/lifrocszh/Projects), a collection of Jupyter notebooks covering my data science and machine learning work.
+### [Scout](https://github.com/lifrocszh/scout) — Distributed crawler and search engine
 
-## 📫 Contacts
-- [LinkedIn](https://www.linkedin.com/in/wangzh516/)
-- Email: wangziheng516@gmail.com
-```
+A Rust system for crawling allowlisted technical documentation and serving search results.
+
+- Coordinator/worker crawling over gRPC, with PostgreSQL-backed task leases, retries, and recovery across worker and coordinator restarts.
+- Immutable corpus snapshots and validated index generations with atomic activation.
+- Keyword, semantic, and hybrid search through an HTTP API.
+- `robots.txt` handling and per-origin concurrency and request-spacing budgets.
+
+### [Logalyze](https://github.com/lifrocszh/logalyze) — Bounded-memory log analysis
+
+A Rust-native log summarizer with a Python API for streaming Apache/nginx combined access logs.
+
+- Reports request and error counts, response sizes, top endpoints and IPs, and UTC error hours without loading the whole log into memory.
+- Includes a Python/SQLite fallback when the native binary is unavailable.
+
+### [RunLens](https://github.com/lifrocszh/runlens) — Command execution diagnostics
+
+A Rust CLI for Linux and macOS that observes a command and its descendants.
+
+- Reports CPU and memory usage, process trees, surviving descendants, sampled filesystem activity, and observed network connections.
+- Preserves the wrapped command's standard I/O and exit status, with best-effort observation and explicit measurement limits.
+
+## Experience
+
+**GIC — AI Engineer Intern · June 2026–present**
+
+Built developer tools exposing Datadog traces through MCP, a framework for evaluating multi-agent routing, and shared tooling for container setup and multi-repository workflows.
+
+**Synapxe — AI Engineer Intern · June–December 2025**
+
+Worked on backend APIs and load balancing, task-to-model routing, LangGraph conversational applications, and language-model evaluation.
+
+## Tools I work with
+
+- **Languages:** Rust, Python, SQL, Java, JavaScript, Bash
+- **Systems and storage:** Linux, PostgreSQL, SQLite, gRPC, HTTP APIs, Docker
+- **AI and observability:** MCP, FastMCP, LangGraph, Datadog, Azure AI Foundry
+
+## More projects
+
+- [RLM-mcp](https://github.com/lifrocszh/RLM-mcp) — MCP tools for inspecting large files and sending focused context to worker models.
+- [video-rag](https://github.com/lifrocszh/video-rag) — A local-first multimodal video RAG scaffold with timestamped retrieval.
+- [AI Daily Assistant](https://github.com/lifrocszh/AI_Daily_Assistant) — A meal-tracking and daily-news bot scaffold.
+- [Projects](https://github.com/lifrocszh/Projects) — Data science and machine learning notebooks.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/wangzh516/) · [Email](mailto:wangziheng516@gmail.com)
