@@ -29,15 +29,6 @@ A Rust CLI for Linux and macOS that observes a command and its descendants.
 - Reports CPU and memory usage, process trees, surviving descendants, sampled filesystem activity, and observed network connections.
 - Preserves the wrapped command's standard I/O and exit status, with best-effort observation and explicit measurement limits.
 
-## Experience
-
-**GIC — AI Engineer Intern · June 2026–present**
-
-Built developer tools exposing Datadog traces through MCP, a framework for evaluating multi-agent routing, and shared tooling for container setup and multi-repository workflows.
-
-**Synapxe — AI Engineer Intern · June–December 2025**
-
-Worked on backend APIs and load balancing, task-to-model routing, LangGraph conversational applications, and language-model evaluation.
 
 ## Tools I work with
 
